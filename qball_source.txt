@@ -1,0 +1,9 @@
+QBall is released under the GPL 3 or later. Compile using Qt from http://qt.nokia.com/ . For Android, use Necessitas: http://sourceforge.net/p/necessitas/home/necessitas/ .
+
+Important: Each Symbian application should have a unique UID. If you wish to distribute your own binaries for Symbian made with this source, please obtain your own UID, and edit the QBall.pro file with it. In particular, the one I use for distribution is provided by Nokia only for use on the Ovi store, and must not be used elsewhere. You can obtain your own UID for free from Symbian Signed ( https://www.symbiansigned.com ).
+
+Please contact me if you have suggestions, bug fixes etc: mark dot harman at ntlworld dot com .
+
+Homepage: http://homepage.ntlworld.com/mark.harman/comp_qball.html
+
+Mark Harman 14 April 2012
